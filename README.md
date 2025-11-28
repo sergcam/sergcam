@@ -1,4 +1,4 @@
-<p align="center"><a href="https://fsf.org"><img src=https://static.fsf.org/nosvn/associate/crm/7099977.png></a></p>
+<p align="center"><a href="https://fsf.org"><img src=https://static.fsf.org/nosvn/associate/crm/7099977.png></a><a><img src="https://members.opensource.org/wp-content/uploads/2023/11/osi_membership_badge.png"></a></p>
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)](#)
