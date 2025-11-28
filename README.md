@@ -1,4 +1,4 @@
-## Hi there 👋
+![fsf badge](https://static.fsf.org/nosvn/associate/crm/7099977.png)
 
 <!--
 **sergcam/sergcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
