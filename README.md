@@ -1,5 +1,5 @@
 ![fsf badge](https://static.fsf.org/nosvn/associate/crm/7099977.png)
-
+<a ref="https://fsf.org"><img src=https://static.fsf.org/nosvn/associate/crm/7099977.png></a>
 <!--
 **sergcam/sergcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
