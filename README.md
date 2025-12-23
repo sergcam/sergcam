@@ -1,6 +1,6 @@
 idk what to write here but i wanted to add these cool looking badges
 
-current main project is simpletag. don't look at my website. its not done
+current main project is simpletag. don't look at my website, its not done
 
 <p align="center"><a href="https://fsf.org"><img src=https://static.fsf.org/nosvn/associate/crm/7099977.png></a>   <a href="https://opensource.org/"><img height="48px" src="https://members.opensource.org/wp-content/uploads/2023/11/osi_membership_badge.png"></a></p>
 
