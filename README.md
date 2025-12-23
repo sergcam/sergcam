@@ -2,6 +2,8 @@ idk what to write here but i wanted to add these cool looking badges :)
 
 current main project is simpletag. 
 
+clippy just wants to be helpful
+
 <p align="center"><a href="https://fsf.org"><img src=https://static.fsf.org/nosvn/associate/crm/7099977.png></a>   <a href="https://opensource.org/"><img height="48px" src="https://members.opensource.org/wp-content/uploads/2023/11/osi_membership_badge.png"></a></p>
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)](#)
